@@ -1,0 +1,36 @@
+.bg-secondary{
+    background-color: #264653 !important;
+}
+.bg-comments{
+    background-color: cornflowerblue !important;
+}
+.modal-title{
+    color: black;
+}
+
+.modal-body{
+    color: black;
+}
+.btn-primary{
+    background-color: #E76f51;
+}
+
+.card-img-top{
+    border-radius: 15px;
+}
+.card-img-client{
+    width: 150px;
+    height: 150px;
+}
+.text-color{
+    color:rgb(255, 123, 0);
+}
+
+.star-image{
+    width: 18px;
+    height: 18px;
+}
+.draw-kit{
+    width: 550px;
+    height: 500px;
+}
